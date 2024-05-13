@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/andresramos"><img src="https://api.daily.dev/devcards/v2/8YmgfgRiFdAaegkJaqGif.png?r=p0n&type=default" width="356" alt="andresramos's Dev Card"/></a>
+<a href="https://app.daily.dev/andresramos"><img src="https://api.daily.dev/devcards/v2/8YmgfgRiFdAaegkJaqGif.png?r=p0n&type=wide" width="652" alt="andresramos's Dev Card"/></a>
 
 ![Snake animation](https://github.com/andreramosilva/andreramosilva/blob/output/github-contribution-grid-snake.svg)
 
