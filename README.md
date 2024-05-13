@@ -1,11 +1,16 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/andresramos"><img src="https://api.daily.dev/devcards/v2/8YmgfgRiFdAaegkJaqGif.png?r=p0n&type=default" width="356" alt="andresramos's Dev Card"/></a>
 
 ![Snake animation](https://github.com/andreramosilva/andreramosilva/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <!--
 **andreramosilva/andreramosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
